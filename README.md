@@ -1,4 +1,4 @@
-# AI-Music-Composer
+# Music-Composer-AI
 A Pygame‑based Piano‑Roll editor that leverages AI (Transformer &amp; LSTM) to compose and continue multi‑track music seamlessly.
 
 ---
